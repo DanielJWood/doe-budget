@@ -1,0 +1,49 @@
+#m3a {
+	overflow-y: auto;
+}
+
+table {
+	background: transparent;
+	font-size: 12px !important;
+}
+
+tr {
+	background-color: transparent !important;
+}
+
+tr:hover {
+	
+	background-color: rgb(3,3,3) !important;
+	background-color: rgba(3,3,3,0.4) !important;
+}
+
+table td, table th {
+	border: none;
+	color: #fff;
+}
+
+		
+th#labs {
+	width: 150px;
+}
+
+th#states {
+	width: 60px;
+}
+
+th#funding {
+	width: 60px;
+}
+
+tr#titleheader {
+	border-bottom: 1px solid #fff;
+}
+
+tr#titleheader:hover {
+	background-color: transparent !important;
+}
+
+table td {	
+	padding-top: 3px;
+	padding-bottom: 2px;
+}

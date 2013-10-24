@@ -1,0 +1,410 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*+++++++++++++++++++++++++++
+Map
+++++++++++++++++++++++++++++++++++++++*/
+ #master_container {
+ 	font-family: 'Avenir LT W02 35 Light',verdana,sans-serif;
+    text-transform: none !important;
+    position: relative;
+    width: 100%;
+    height: 800px;
+ }
+ #map { position:absolute; top:0; height: 500px; width:99%; border: 4px solid #333;}
+
+		.info {
+			padding: 6px 8px;
+			font: 14px/16px Arial, Helvetica, sans-serif;
+			background: rgb(255,255,255);
+			background: rgba(255,255,255,0.8);
+			/*box-shadow: 0 0 15px rgba(0,0,0,0.2);*/
+			/*border-radius: 5px;*/
+			color: black !important;
+		}
+		.info h4 {
+			margin: 0 0 5px;
+			color: #333 !important;
+			border: none;
+		}
+
+		.legendz {
+			text-align: left;
+			line-height: 18px;
+			color: #555;
+		}
+		.legendz i {
+			width: 18px;
+			height: 18px;
+			float: left;
+			margin-right: 8px;
+			opacity: 0.7;
+		}
+
+
+
+/* general toolbar styles */
+
+.leaflet-switch {
+	/*box-shadow: 0 1px 7px rgba(0,0,0,0.65);*/
+	-webkit-border-radius: 4px;
+	        border-radius: 4px;
+	}
+.leaflet-switch a, .leaflet-switch a:hover {
+	background-color: #fff;
+	/*border-bottom: 1px solid #ccc;*/
+	width: 26px;
+	height: 26px;
+	line-height: 26px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	border-radius: none;
+	}
+.leaflet-switch a,
+.leaflet-control-layers-toggle {
+	
+	}
+.leaflet-switch a:hover {
+	background-color: #f4f4f4;
+	}
+.leaflet-switch a:first-child {
+	
+	}
+.leaflet-switch a:last-child {
+	
+	}
+.leaflet-switch a.leaflet-disabled {
+	cursor: default;
+	background-color: #f4f4f4;
+	color: #bbb;
+	}
+
+.leaflet-touch .leaflet-switch {
+	
+	}
+.leaflet-touch .leaflet-switch a {
+	width: 30px;
+	height: 30px;
+	}
+.leaflet-touch .leaflet-switch a:first-child {
+	
+	}
+.leaflet-touch .leaflet-switch a:last-child {
+	
+	}
+
+/*make things on right flush*/
+.leaflet-right {
+	right: -10px;
+}
+
+.leaflet-control-attribution {
+	display: none;
+}
+
+
+/**********
+states
+********/
+
+#alaska {
+	padding-bottom:10px; padding-top: 5px;
+}
+
+#hawaii {
+	padding-top:8px
+}
+
+#usa {
+	padding-top:10px
+}
+
+/************
+info tab below rap
+**********/
+
+		.belowblock {
+			height: 300px;
+			float: left;
+		}
+
+		#containerz {	
+			z-index: 100000000000;		
+			width:	65%;
+			position: relative;		
+		}
+
+		#m3a {
+			position: relative;
+		 	float: right;
+		 	width: 35%;
+			height: 300px;
+			top:0px;
+			color: #fff;
+		}
+
+		#statecont h1 {
+			color: #fff;
+			font-size: 38px;
+			line-height: 50px;
+			margin-top: 2px;
+			font-family: 'Avenir LT W02 35 Light',verdana,sans-serif;
+		}
+
+		#sci {
+			top: -2px;
+			position: relative;
+			min-width: 35%;
+			background-image: url('img/cartographer.png');
+			background-repeat: repeat;
+			background-position: left bottom;
+			float: left;
+			text-align: center;
+			padding-right: 10px;
+			padding-left: 10px;
+			left: -4px;
+		}
+
+		#statecont {
+			width: 1000px;
+			position:relative;
+			top:450px;
+			margin: 0 auto;
+			z-index: 9999
+		}
+
+		#statecont_inner {
+			position:relative;
+			top:0px;
+			left:0px;
+			width: 95%;
+			margin: 0 auto;
+			text-align: left
+		}
+
+		#m3a h2 {
+			color: #fff;
+			text-align: center;
+			font-size: 95px;
+			line-height: 100px;
+			border-bottom: none;
+		}
+
+		#m3a p {
+			font-size: 20px;
+			text-align: left;
+			display: inline;
+			padding-left: 3px;
+		}	
+
+		#m3a p.riii {
+			padding-right: 3px;
+			text-align: right;
+			display: block;
+		}
+
+		#informz3 {
+			background-image: url('img/cartographer.png');
+			background-repeat: repeat;
+			background-position: left top;
+			position:relative;
+			top:0px;
+			left:0px;
+			width: 95%;
+			margin: 0 auto;
+			height: 300px;
+			 -moz-box-shadow: 0 0 14px #111;
+			-webkit-box-shadow: 0 0 14px #111;
+			box-shadow: 0 0 14px #111;
+		}
+
+		#informz2 {
+			width: 1000px;
+			position:relative;
+			top:504px;
+			margin: 0 auto;
+		}
+
+/************
+Bars and stuff, upper right
+*********/
+/*.leaflet-bar {
+	border-radius: 0;
+	background-image: url('img/cartographer.png');
+	background-repeat: repeat;
+
+	
+	border: none;
+	margin-left: 0px;
+	border-radius: 0px;
+	-moz-box-shadow: 0 0 5px #111;
+			-webkit-box-shadow: 0 0 5px #111;
+			box-shadow: 0 0 5px #111;
+}
+
+.leaflet-bar a, .leaflet-bar a:hover {
+	background-color: transparent;
+	border-radius: none;
+	color: #fff !important;
+	width: 56px;
+	border-color: #333;
+
+}
+
+.leaflet-left .leaflet-control {
+	margin-left: 0px;
+	}
+
+.leaflet-bar a:hover {
+	background-color: #1E1E1E !important;
+	border-radius: none !important	;
+	}*/
+
+
+div.leaflet-control-zoom.leaflet-bar.leaflet-control {
+	margin-left: 0px;
+	border: 0px;
+	border-radius: 0px;
+		-moz-box-shadow: 0 0 5px #111;
+			-webkit-box-shadow: 0 0 5px #111;
+			box-shadow: 0 0 5px #111;
+	border-color: #333;
+		background-image: url('img/cartographer.png');
+	background-repeat: repeat;
+
+}
+
+div.leaflet-control-zoom.leaflet-bar.leaflet-control a {
+	width: 56px;
+	border-radius: 0px;
+	background-color: transparent;
+	color: #fff !important;
+		border-color: #333;
+
+}
+
+div.leaflet-control-zoom.leaflet-bar.leaflet-control a:hover {
+	background-color: #1E1E1E !important;
+
+}
+
+/***
+Responsive
+***/
+
+	@media (max-width: 1000px) {
+        #statecont, #informz2 {
+        	width: 100%;
+        }
+        #m3a h2 {
+        	font-size: 85px;
+        }
+    } 
+
+	@media (max-width: 900px) {    
+		#m3a h2 {
+			font-size: 75px;
+		}
+	}
+
+    @media (max-width: 768px) {
+		#statecont h1 {
+	        font-size: 30px
+	    }        
+	    #m3a h2 {
+	    	font-size: 65px;
+	    }        
+        #statecont_inner, #informz3 {
+        	width: 100%;
+        }
+
+        #map {border: none;}
+        #m3a {top: 0px;}
+        #sci {left: 0px;}
+        #informz2 {top: 500px;}
+
+    } 
+
+
+    @media (max-width: 480px) {
+        #map {
+        	border: 1px;
+        }
+        #sci {
+		
+    	width: 100%;
+    	left: 0px;
+        }
+        #m3a {
+        	top: 0px;
+        }
+        #containerz {
+        	width: 100%;
+        }
+        
+        #highcharts-0 {
+        	top: 0px;
+        }
+        .belowblock {
+        	height: 200px !important;
+        }
+        .leaflet-bottom {
+			bottom: 40px;
+		}
+		.leaflet-top {
+			top: -10px;
+		}
+
+    }
+
+    @media (max-width: 320px) {
+        
+	}

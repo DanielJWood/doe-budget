@@ -1,0 +1,108 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "stateabbre": "AK", "state": "Alaska", "funding12": "16.01", "funding11": "17.72", "funding10": "15.98", "funding09": "16.43", "funding08": "14.26", "funding07": "14.26", "funding06": "12.83", "funding05": "13.21", "funding04": "14.31", "funding03": "14.89", "funding02": "15.67" }, "geometry": { "type": "Point", "coordinates": [ -152.2683, 61.385 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "stateabbre": "AL", "state": "Alabama", "funding12": "30.23", "funding11": "30.5", "funding10": "29.08", "funding09": "29.08", "funding08": "31.63", "funding07": "32.2", "funding06": "32.06", "funding05": "32.35", "funding04": "32.16", "funding03": "30.43", "funding02": "31.14" }, "geometry": { "type": "Point", "coordinates": [ -86.8073, 32.799 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "stateabbre": "AR", "state": "Arkansas", "funding12": "31.17", "funding11": "30.4", "funding10": "31.06", "funding09": "31.06", "funding08": "29.21", "funding07": "29.94", "funding06": "29.41", "funding05": "30.16", "funding04": "30.16", "funding03": "31.76", "funding02": "31.97" }, "geometry": { "type": "Point", "coordinates": [ -92.3809, 34.9513 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "stateabbre": "AZ", "state": "Arizona", "funding12": "22.56", "funding11": "21.92", "funding10": "19.02", "funding09": "18.31", "funding08": "18.12", "funding07": "17.22", "funding06": "14.19", "funding05": "13.19", "funding04": "13.19", "funding03": "13.19", "funding02": "11.59" }, "geometry": { "type": "Point", "coordinates": [ -111.3877, 33.7712 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "stateabbre": "CA", "state": "California", "funding12": "9.65", "funding11": "7.15", "funding10": "4.76", "funding09": "6.88", "funding08": "6.69", "funding07": "8.16", "funding06": "9.86", "funding05": "9.69", "funding04": "8.9", "funding03": "8.9", "funding02": "8.9" }, "geometry": { "type": "Point", "coordinates": [ -119.7462, 36.17 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "stateabbre": "CO", "state": "Colorado", "funding12": "35.41", "funding11": "36.3", "funding10": "36.3", "funding09": "35.11", "funding08": "37.24", "funding07": "36.05", "funding06": "36.05", "funding05": "34.61", "funding04": "34.48", "funding03": "35.45", "funding02": "35.12" }, "geometry": { "type": "Point", "coordinates": [ -105.3272, 39.0646 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "stateabbre": "CT", "state": "Connecticut", "funding12": "23.58", "funding11": "23.88", "funding10": "26.03", "funding09": "25.23", "funding08": "27.86", "funding07": "30.05", "funding06": "31.62", "funding05": "29.64", "funding04": "33.49", "funding03": "37.26", "funding02": "35.49" }, "geometry": { "type": "Point", "coordinates": [ -72.7622, 41.5834 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "stateabbre": "DC", "state": "District of Columbia", "funding12": "2.94", "funding11": "2.94", "funding10": "0.32", "funding09": "0.39", "funding08": "1.98", "funding07": "1.31", "funding06": "0", "funding05": "0", "funding04": "0", "funding03": "0", "funding02": "0" }, "geometry": { "type": "Point", "coordinates": [ -77.0262, 38.8964 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "stateabbre": "DE", "state": "Delaware", "funding12": "3.01", "funding11": "6.58", "funding10": "6.58", "funding09": "2.64", "funding08": "5.18", "funding07": "3.1", "funding06": "0", "funding05": "0", "funding04": "0", "funding03": "0", "funding02": "0" }, "geometry": { "type": "Point", "coordinates": [ -75.5148, 39.3498 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "stateabbre": "FL", "state": "Florida", "funding12": "35.15", "funding11": "31.37", "funding10": "31.29", "funding09": "30.63", "funding08": "29.67", "funding07": "31.27", "funding06": "31.1", "funding05": "32.99", "funding04": "32.93", "funding03": "33.48", "funding02": "32.53" }, "geometry": { "type": "Point", "coordinates": [ -81.717, 27.8333 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "stateabbre": "GA", "state": "Georgia", "funding12": "16.97", "funding11": "18.78", "funding10": "18.78", "funding09": "18.78", "funding08": "18.17", "funding07": "14.66", "funding06": "14.55", "funding05": "14.55", "funding04": "13.33", "funding03": "8.99", "funding02": "9.81" }, "geometry": { "type": "Point", "coordinates": [ -83.6487, 32.9866 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "stateabbre": "HI", "state": "Hawaii", "funding12": "7.26", "funding11": "6.16", "funding10": "2.93", "funding09": "3.91", "funding08": "4.45", "funding07": "4.61", "funding06": "2.92", "funding05": "3.63", "funding04": "3.98", "funding03": "4.56", "funding02": "1.2" }, "geometry": { "type": "Point", "coordinates": [ -157.5311, 21.1098 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "stateabbre": "IA", "state": "Iowa", "funding12": "0.85", "funding11": "-0.12", "funding10": "1.32", "funding09": "3.3", "funding08": "3.26", "funding07": "3.26", "funding06": "4.96", "funding05": "4.52", "funding04": "4.52", "funding03": "5.31", "funding02": "5.64" }, "geometry": { "type": "Point", "coordinates": [ -93.214, 42.0046 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "stateabbre": "ID", "state": "Idaho", "funding12": "19.27", "funding11": "17.54", "funding10": "18.61", "funding09": "18.66", "funding08": "18.66", "funding07": "19.37", "funding06": "19.37", "funding05": "23.3", "funding04": "21.46", "funding03": "21.69", "funding02": "18.35" }, "geometry": { "type": "Point", "coordinates": [ -114.5103, 44.2394 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "stateabbre": "IL", "state": "Illinois", "funding12": "36.61", "funding11": "37.3", "funding10": "40.13", "funding09": "40.13", "funding08": "38.13", "funding07": "34.57", "funding06": "36.29", "funding05": "35.34", "funding04": "33.96", "funding03": "34.65", "funding02": "35.04" }, "geometry": { "type": "Point", "coordinates": [ -89.0022, 40.3363 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "stateabbre": "IN", "state": "Indiana", "funding12": "3.66", "funding11": "0.08", "funding10": "0", "funding09": "0", "funding08": "0", "funding07": "0", "funding06": "0", "funding05": "0.49", "funding04": "0", "funding03": "0", "funding02": "0" }, "geometry": { "type": "Point", "coordinates": [ -86.2604, 39.8647 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "stateabbre": "KS", "state": "Kansas", "funding12": "36.25", "funding11": "36.25", "funding10": "35.93", "funding09": "34.42", "funding08": "33.1", "funding07": "31.82", "funding06": "30.18", "funding05": "30.18", "funding04": "30.18", "funding03": "30.72", "funding02": "30.72" }, "geometry": { "type": "Point", "coordinates": [ -96.8005, 38.5111 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "stateabbre": "KY", "state": "Kentucky", "funding12": "26.7", "funding11": "28.59", "funding10": "24.98", "funding09": "24.25", "funding08": "22.67", "funding07": "24.06", "funding06": "24.77", "funding05": "22.67", "funding04": "23.75", "funding03": "24.13", "funding02": "25.17" }, "geometry": { "type": "Point", "coordinates": [ -84.6514, 37.669 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "stateabbre": "LA", "state": "Louisiana", "funding12": "5.96", "funding11": "5.87", "funding10": "6.84", "funding09": "5.19", "funding08": "5.19", "funding07": "7.03", "funding06": "3.77", "funding05": "3.77", "funding04": "4.47", "funding03": "3.82", "funding02": "7.77" }, "geometry": { "type": "Point", "coordinates": [ -91.8749, 31.1801 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "stateabbre": "MA", "state": "Massachusetts", "funding12": "19.6", "funding11": "19.6", "funding10": "17.43", "funding09": "18.76", "funding08": "17.49", "funding07": "17.49", "funding06": "17.41", "funding05": "18.8", "funding04": "17.27", "funding03": "18.25", "funding02": "15.31" }, "geometry": { "type": "Point", "coordinates": [ -71.5314, 42.2373 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "stateabbre": "MD", "state": "Maryland", "funding12": "19.16", "funding11": "17.54", "funding10": "16.51", "funding09": "16.69", "funding08": "17.04", "funding07": "16.27", "funding06": "16.69", "funding05": "19.36", "funding04": "16.45", "funding03": "16.8", "funding02": "18.02" }, "geometry": { "type": "Point", "coordinates": [ -76.7902, 39.0724 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "stateabbre": "ME", "state": "Maine", "funding12": "39.15", "funding11": "39.15", "funding10": "38.27", "funding09": "37.48", "funding08": "34.72", "funding07": "34.25", "funding06": "32.55", "funding05": "29.72", "funding04": "27.04", "funding03": "26.8", "funding02": "25.51" }, "geometry": { "type": "Point", "coordinates": [ -69.3977, 44.6074 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "stateabbre": "MI", "state": "Michigan", "funding12": "4.7", "funding11": "4.7", "funding10": "7.96", "funding09": "6.57", "funding08": "7.1", "funding07": "7.79", "funding06": "6.62", "funding05": "7.91", "funding04": "7.9", "funding03": "8.46", "funding02": "8.9" }, "geometry": { "type": "Point", "coordinates": [ -84.5603, 43.3504 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "stateabbre": "MN", "state": "Minnesota", "funding12": "28.79", "funding11": "28.38", "funding10": "28.38", "funding09": "28.48", "funding08": "26.11", "funding07": "25.47", "funding06": "26.54", "funding05": "23.21", "funding04": "23.21", "funding03": "22.72", "funding02": "22.43" }, "geometry": { "type": "Point", "coordinates": [ -93.9196, 45.7326 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "stateabbre": "MO", "state": "Missouri", "funding12": "2.46", "funding11": "2.46", "funding10": "3.3", "funding09": "3.89", "funding08": "0.51", "funding07": "0", "funding06": "0", "funding05": "0", "funding04": "0", "funding03": "0", "funding02": "2" }, "geometry": { "type": "Point", "coordinates": [ -92.302, 38.4623 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "stateabbre": "MS", "state": "Mississippi", "funding12": "9.03", "funding11": "8.74", "funding10": "12.49", "funding09": "12.49", "funding08": "11.73", "funding07": "10.78", "funding06": "12.28", "funding05": "13.01", "funding04": "16.25", "funding03": "13.29", "funding02": "13.66" }, "geometry": { "type": "Point", "coordinates": [ -89.6812, 32.7673 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "stateabbre": "MT", "state": "Montana", "funding12": "29.87", "funding11": "29.28", "funding10": "30.37", "funding09": "31.19", "funding08": "30.49", "funding07": "29.39", "funding06": "29.38", "funding05": "29.63", "funding04": "33.28", "funding03": "30.82", "funding02": "31.99" }, "geometry": { "type": "Point", "coordinates": [ -110.3261, 46.9048 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "stateabbre": "NC", "state": "North Carolina", "funding12": "0.44", "funding11": "2.33", "funding10": "2.24", "funding09": "0", "funding08": "0.44", "funding07": "0.44", "funding06": "0", "funding05": "0", "funding04": "0", "funding03": "0", "funding02": "0" }, "geometry": { "type": "Point", "coordinates": [ -79.8431, 35.6411 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "stateabbre": "ND", "state": "North Dakota", "funding12": "39.14", "funding11": "37.31", "funding10": "37.84", "funding09": "38.27", "funding08": "38.19", "funding07": "41.92", "funding06": "38.72", "funding05": "38.46", "funding04": "39.2", "funding03": "36.24", "funding02": "36.92" }, "geometry": { "type": "Point", "coordinates": [ -99.793, 47.5362 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "stateabbre": "NE", "state": "Nebraska", "funding12": "29.23", "funding11": "29.41", "funding10": "31.17", "funding09": "31.17", "funding08": "30.6", "funding07": "31.65", "funding06": "32.18", "funding05": "31.28", "funding04": "32.76", "funding03": "32.76", "funding02": "32.04" }, "geometry": { "type": "Point", "coordinates": [ -98.2883, 41.1289 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "stateabbre": "NH", "state": "New Hampshire", "funding12": "16.55", "funding11": "16.06", "funding10": "14.72", "funding09": "17.05", "funding08": "17.19", "funding07": "15.66", "funding06": "14.34", "funding05": "14.34", "funding04": "15.08", "funding03": "13.85", "funding02": "13.85" }, "geometry": { "type": "Point", "coordinates": [ -71.5653, 43.4108 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "stateabbre": "NJ", "state": "New Jersey", "funding12": "18.72", "funding11": "17.68", "funding10": "15.95", "funding09": "15.95", "funding08": "16.09", "funding07": "17.94", "funding06": "15.5", "funding05": "11.77", "funding04": "9.9", "funding03": "10.58", "funding02": "8.71" }, "geometry": { "type": "Point", "coordinates": [ -74.5089, 40.314 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "stateabbre": "NM", "state": "New Mexico", "funding12": "1.57", "funding11": "5.41", "funding10": "3.95", "funding09": "3.55", "funding08": "4", "funding07": "4", "funding06": "4", "funding05": "4", "funding04": "4", "funding03": "2.33", "funding02": "1.34" }, "geometry": { "type": "Point", "coordinates": [ -106.2371, 34.8375 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "stateabbre": "NV", "state": "Nevada", "funding12": "29.31", "funding11": "28.25", "funding10": "28.44", "funding09": "29.31", "funding08": "31.35", "funding07": "33.35", "funding06": "33.39", "funding05": "37.33", "funding04": "36.42", "funding03": "35.43", "funding02": "33.47" }, "geometry": { "type": "Point", "coordinates": [ -117.1219, 38.4199 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "stateabbre": "NY", "state": "New York", "funding12": "30.19", "funding11": "28.46", "funding10": "28.14", "funding09": "26.31", "funding08": "27.92", "funding07": "26.83", "funding06": "26.4", "funding05": "26.4", "funding04": "27.63", "funding03": "27.94", "funding02": "28.84" }, "geometry": { "type": "Point", "coordinates": [ -74.9384, 42.1497 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "stateabbre": "OH", "state": "Ohio", "funding12": "13.45", "funding11": "12.32", "funding10": "11.58", "funding09": "9.6", "funding08": "11.3", "funding07": "9.31", "funding06": "9.31", "funding05": "9.65", "funding04": "8.09", "funding03": "8.39", "funding02": "7.66" }, "geometry": { "type": "Point", "coordinates": [ -82.7755, 40.3736 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "stateabbre": "OK", "state": "Oklahoma", "funding12": "26.41", "funding11": "26.46", "funding10": "26.46", "funding09": "27.09", "funding08": "27.09", "funding07": "29.55", "funding06": "29.62", "funding05": "29.14", "funding04": "30.82", "funding03": "30.93", "funding02": "33.82" }, "geometry": { "type": "Point", "coordinates": [ -96.9247, 35.5376 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "stateabbre": "OR", "state": "Oregon", "funding12": "8.09", "funding11": "7.51", "funding10": "6.4", "funding09": "7", "funding08": "7.24", "funding07": "7.82", "funding06": "4.66", "funding05": "3.03", "funding04": "-0.14", "funding03": "0", "funding02": "0" }, "geometry": { "type": "Point", "coordinates": [ -122.1269, 44.5672 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "stateabbre": "PA", "state": "Pennsylvania", "funding12": "33.08", "funding11": "35.82", "funding10": "35.42", "funding09": "35.96", "funding08": "38.65", "funding07": "38.42", "funding06": "37.67", "funding05": "36.32", "funding04": "34.56", "funding03": "35.1", "funding02": "35.1" }, "geometry": { "type": "Point", "coordinates": [ -77.264, 40.5773 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "stateabbre": "RI", "state": "Rhode Island", "funding12": "24.13", "funding11": "25.16", "funding10": "24.72", "funding09": "27.61", "funding08": "27.82", "funding07": "31.33", "funding06": "31.01", "funding05": "31.5", "funding04": "32.35", "funding03": "33.02", "funding02": "36.02" }, "geometry": { "type": "Point", "coordinates": [ -71.5101, 41.6772 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "stateabbre": "SC", "state": "South Carolina", "funding12": "30.24", "funding11": "30.24", "funding10": "27.26", "funding09": "25.43", "funding08": "25.15", "funding07": "25.76", "funding06": "27.17", "funding05": "26.58", "funding04": "26.58", "funding03": "26.99", "funding02": "27.04" }, "geometry": { "type": "Point", "coordinates": [ -80.9066, 33.8191 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "stateabbre": "SD", "state": "South Dakota", "funding12": "9.83", "funding11": "7.98", "funding10": "6.45", "funding09": "5", "funding08": "5.51", "funding07": "6.43", "funding06": "4.98", "funding05": "5.27", "funding04": "5.25", "funding03": "4.74", "funding02": "5.52" }, "geometry": { "type": "Point", "coordinates": [ -99.4632, 44.2853 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "stateabbre": "TN", "state": "Tennessee", "funding12": "7.61", "funding11": "7.61", "funding10": "5.18", "funding09": "4.4", "funding08": "5.42", "funding07": "4.77", "funding06": "3.89", "funding05": "3.6", "funding04": "0.83", "funding03": "1.58", "funding02": "2.43" }, "geometry": { "type": "Point", "coordinates": [ -86.7489, 35.7449 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "stateabbre": "TX", "state": "Texas", "funding12": "9.31", "funding11": "8.99", "funding10": "8.35", "funding09": "5.76", "funding08": "4.21", "funding07": "3.77", "funding06": "1.15", "funding05": "0", "funding04": "0", "funding03": "0", "funding02": "0" }, "geometry": { "type": "Point", "coordinates": [ -97.6475, 31.106 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "stateabbre": "UT", "state": "Utah", "funding12": "4.24", "funding11": "3.18", "funding10": "2.28", "funding09": "3.74", "funding08": "4.73", "funding07": "6.11", "funding06": "7.16", "funding05": "7.16", "funding04": "6.11", "funding03": "4.93", "funding02": "6.87" }, "geometry": { "type": "Point", "coordinates": [ -111.8535, 40.1135 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "stateabbre": "VA", "state": "Virginia", "funding12": "30.59", "funding11": "33.1", "funding10": "32.84", "funding09": "30.47", "funding08": "31.74", "funding07": "33.55", "funding06": "29.23", "funding05": "29.12", "funding04": "28.35", "funding03": "26.97", "funding02": "23.57" }, "geometry": { "type": "Point", "coordinates": [ -78.2057, 37.768 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "stateabbre": "VT", "state": "Vermont", "funding12": "13.58", "funding11": "16.06", "funding10": "16.94", "funding09": "19.64", "funding08": "20.42", "funding07": "16.58", "funding06": "16.17", "funding05": "17.01", "funding04": "18.9", "funding03": "19.74", "funding02": "21.7" }, "geometry": { "type": "Point", "coordinates": [ -72.7093, 44.0407 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "stateabbre": "WA", "state": "Washington", "funding12": "14.68", "funding11": "13.95", "funding10": "10.47", "funding09": "13.27", "funding08": "10.82", "funding07": "12.62", "funding06": "9.42", "funding05": "9.42", "funding04": "9.47", "funding03": "6.52", "funding02": "7.55" }, "geometry": { "type": "Point", "coordinates": [ -121.5708, 47.3917 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "stateabbre": "WI", "state": "Wisconsin", "funding12": "23.92", "funding11": "21.82", "funding10": "21.82", "funding09": "24.01", "funding08": "24.46", "funding07": "23.67", "funding06": "22.41", "funding05": "24.18", "funding04": "23.75", "funding03": "24.31", "funding02": "23.61" }, "geometry": { "type": "Point", "coordinates": [ -89.6385, 44.2563 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "stateabbre": "WV", "state": "West Virginia", "funding12": "2.1", "funding11": "0.2", "funding10": "0.98", "funding09": "1.27", "funding08": "0", "funding07": "0", "funding06": "0", "funding05": "0", "funding04": "0", "funding03": "0.86", "funding02": "1.6" }, "geometry": { "type": "Point", "coordinates": [ -80.9696, 38.468 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "stateabbre": "WY", "state": "Wyoming", "funding12": "3.98", "funding11": "3.09", "funding10": "3", "funding09": "0", "funding08": "0", "funding07": "0", "funding06": "2", "funding05": "0", "funding04": "0.78", "funding03": "3.38", "funding02": "2.14" }, "geometry": { "type": "Point", "coordinates": [ -107.2085, 42.7475 ] } }
+
+]
+}
