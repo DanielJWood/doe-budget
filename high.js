@@ -75,7 +75,7 @@ if (raw[placeholderz][0] == undefined) {
         var tr1 = document.createElement('tr');
         var td1 = document.createElement('td');
 
-        td1.innerHTML = "None";
+        td1.innerHTML = "No Labs in this State";
         tbody.appendChild(tr1);
         tr1.appendChild(td1);   
     } else {
@@ -154,7 +154,7 @@ if (raw[placeholderz][0] == undefined) {
             }]
         },
         tooltip: {
-            valueSuffix: ' dollars per person per year',
+            valueSuffix: ' dollars',
             borderRadius: 0,
             borderColor: '#444444'
         },
@@ -164,7 +164,7 @@ if (raw[placeholderz][0] == undefined) {
         series: [{
             name: layer.properties.name,
             data: layer.properties.datapoint,
-            color: '#f02069', 
+            color: '#A10341', 
         }],
         plotOptions: {
             line: {

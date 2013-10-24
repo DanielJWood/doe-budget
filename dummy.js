@@ -1,63 +1,87 @@
 var dummy = [
 	{
-		"lab": "Brookhaven National Lab",
-		"state": ["NY"],
-		"money": "$1,004,045 "
+		"lab": "Ames Laboratory",
+		"money": "$30,304",
+		"state": ["IA"]
 	},
 	{
-		"lab": "Sandia National Lab",
-		"state": ["NM", "CA"],
-		"money": "$40,603,124 "
+		"lab": "Argonne National Laboratory",
+		"money": "$610,684",
+		"state": ["IL"]
 	},
 	{
-		"lab": "Area 51",
-		"state": ["Redacted"],
-		"money": "Redacted"
+		"lab": "Brookhaven National Laboratory",
+		"money": "$625,266",
+		"state": ["NY"]
 	},
 	{
-		"lab": "NREL",
-		"state": ["CO"],
-		"money": "$5,404,045 "
+		"lab": "Fermi National Accelerator Laboratory",
+		"money": "$408,417",
+		"state": ["IL"]
 	},
 	{
-		"lab": "Brookhaven National Lab",
-		"state": ["NY"],
-		"money": "$1,004,045 "
+		"lab": "Idaho National  Laboratory",
+		"money": "$1,066,968",
+		"state": ["ID"]
 	},
 	{
-		"lab": "Sandia National Lab",
-		"state": ["NM", "CA"],
-		"money": "$40,603,124 "
+		"lab": "Lawrence Berkeley National Laboratory",
+		"money": "$614,173",
+		"state": ["CA"]
 	},
 	{
-		"lab": "Area 51",
-		"state": ["Redacted"],
-		"money": "Redacted"
+		"lab": "Lawrence Livermore National Laboratory",
+		"money": "$1,314,330",
+		"state": ["CA"]
 	},
 	{
-		"lab": "NREL",
-		"state": ["CO"],
-		"money": "$5,404,045 "
+		"lab": "Los Alamos National Laboratory",
+		"money": "$2,005,067",
+		"state": ["NM"]
 	},
 	{
-		"lab": "Brookhaven National Lab",
-		"state": ["NY"],
-		"money": "$1,004,045 "
+		"lab": "National Energy Technology Lab",
+		"money": "$705,740",
+		"state": ["PA", "WV"]
 	},
 	{
-		"lab": "Sandia National Lab",
-		"state": ["NM", "CA"],
-		"money": "$40,603,124 "
+		"lab": "National Renewable Energy Laboratory",
+		"money": "$266,623",
+		"state": ["CO"]
 	},
 	{
-		"lab": "Area 51",
-		"state": ["Redacted"],
-		"money": "Redacted"
+		"lab": "Oak Ridge National Laboratory",
+		"money": "$1,155,756",
+		"state": ["TN"]
 	},
 	{
-		"lab": "NREL",
-		"state": ["CO"],
-		"money": "$5,404,045 "
+		"lab": "Pacific Northwest National Laboratory",
+		"money": "$534,940",
+		"state": ["WA"]
+	},
+	{
+		"lab": "Princeton Plasma Physics Laboratory",
+		"money": "$79,007",
+		"state": ["NJ"]
+	},
+	{
+		"lab": "Sandia National Laboratories",
+		"money": "$1,649,985",
+		"state": ["CA", "NM"]
+	},
+	{
+		"lab": "Savannah River National Laboratory",
+		"money": "$4,991",
+		"state": ["SC"]
+	},
+	{
+		"lab": "SLAC National  Accelerator Laboratory",
+		"money": "$333,156",
+		"state": ["CA"]
+	},
+	{
+		"lab": "Thomas Jefferson National Accelerator Facility",
+		"money": "$160,342",
+		"state": ["VA"]
 	}
-	
 ]

@@ -172,7 +172,7 @@ info tab below rap
 **********/
 
 		.belowblock {
-			height: 300px;
+			height: 310px;
 			float: left;
 		}
 
@@ -203,7 +203,7 @@ info tab below rap
 			top: -2px;
 			position: relative;
 			min-width: 35%;
-			background-image: url('img/cartographer.png');
+			background-image: url('img/black_thread.png');
 			background-repeat: repeat;
 			background-position: left bottom;
 			float: left;
@@ -252,7 +252,7 @@ info tab below rap
 		}
 
 		#informz3 {
-			background-image: url('img/cartographer.png');
+			background-image: url('img/black_thread.png');
 			background-repeat: repeat;
 			background-position: left top;
 			position:relative;
@@ -317,7 +317,7 @@ div.leaflet-control-zoom.leaflet-bar.leaflet-control {
 			-webkit-box-shadow: 0 0 5px #111;
 			box-shadow: 0 0 5px #111;
 	border-color: #333;
-		background-image: url('img/cartographer.png');
+		background-image: url('img/black_thread.png');
 	background-repeat: repeat;
 
 }
