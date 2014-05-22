@@ -103,20 +103,20 @@ if (raw[placeholderz][0] == undefined) {
         chart: {
             type: 'line',
             marginRight: 10,
-            marginLeft: 50,
+            marginLeft: 100,
             marginBottom: 50,
             backgroundColor: null,
             borderRadius: 0        
             },
         title: {
-            floating: true,
+            // floating: true,
             text: 'DOE funding allocation in ' + layer.properties.name,
             style: {
                 color: '#ffffff'
             }
         },
         subtitle: {
-            text: '1900 - 2012',
+            text: '2000 - 2012',
             floating: true,
             style: {
                 color: '#fff'
@@ -137,6 +137,7 @@ if (raw[placeholderz][0] == undefined) {
         yAxis: {
             endOnTick: false,
             startOnTick: false,
+            min: 0,
             title: {
                 text: '',
                 style: {
@@ -145,7 +146,10 @@ if (raw[placeholderz][0] == undefined) {
             },labels: {
                 style: {
                     color: '#fff'
-                }
+                },
+                formatter: function () {
+                return '$' + Highcharts.numberFormat(this.value/1000000,0) + ' million';
+            }
             },
             plotLines: [{
                 value: 0,

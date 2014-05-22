@@ -35,11 +35,11 @@
 
 		// get color depending on population density value
 		function getColor(d) {
-			return d > 1000000   ? '#A10341' :
-			       d > 500000    ? '#AE275C' :
-			       d > 100000 	 ? '#BB4B77' :
-			       d > 50000 	 ? '#C96F92' :
-			       d > 10000  	 ? '#D693AD' :
+			return d > 1000000000   ? '#A10341' :
+			       d > 500000000    ? '#AE275C' :
+			       d > 100000000 	 ? '#BB4B77' :
+			       d > 50000000 	 ? '#C96F92' :
+			       d > 10000000  	 ? '#D693AD' :
 			       d > 0	   	 ? '#E4B7C8' :
 			                  	   '#F1DBE3' ;
 		}
@@ -154,17 +154,20 @@
 		legend.onAdd = function (map) {
 
 			var div = L.DomUtil.create('div', 'info legendz'),
-				grades = [0, 10000, 50000, 100000, 500000, 1000000],
+				grades = [0, 10000000, 50000000, 100000000, 500000000, 1000000000],
+				grades2 = [0, '10,000,000', '50,000,000', '100,000,000', '500,000,000', '1,000,000,000'],
 				labels = [],
-				from, to;
+				from, from2, to2;
 
 			for (var i = 0; i < grades.length; i++) {
 				from = grades[i];
 				to = grades[i + 1];
+				from2 = grades2[i];
+				to2 = grades2[i + 1];
 
 				labels.push(
 					'<i style="background:' + getColor(from + 0.1) + '"></i> $' +
-					from + (to ? '&ndash; $' + to : '+'));
+					from2 + (to2 ? '&ndash; $' + to2 : '+'));
 			}
 
 			div.innerHTML = labels.join('<br>');

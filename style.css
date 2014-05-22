@@ -408,3 +408,11 @@ Responsive
     @media (max-width: 320px) {
         
 	}
+
+
+/*Labs text*/
+.labs_text {
+	color: #333 !important;
+	padding-bottom: 0px !important;
+	border-bottom: 0px !important;
+}
